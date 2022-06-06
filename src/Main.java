@@ -82,5 +82,6 @@ public class Main {
         if (otherPovysh>povyshenieCherez)
             System.out.println("Теперь остальные получают " +(otherZp+uvelichenOt)+ " рублей. Годовой доход вырос на "+uvelichenOt*month+ " рублей");
 
+
     }
 }
